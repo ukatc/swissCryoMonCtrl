@@ -36,8 +36,8 @@
 		<Item Name="swissCryoMonCtrl.vi" Type="VI" URL="../swissCryoMonCtrl.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
-				<Item Name="Call-VISA-Close.ctl" Type="VI" URL="/&lt;instrlib&gt;/Lake Shore Cryotronics 218/Public/Call-VISA-Close.ctl"/>
 				<Item Name="Lake Shore Cryotronics 218.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Lake Shore Cryotronics 218/Lake Shore Cryotronics 218.lvlib"/>
+				<Item Name="Lake Shore Cryotronics 340.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Lake Shore Cryotronics 340/Lake Shore Cryotronics 340.lvlib"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
